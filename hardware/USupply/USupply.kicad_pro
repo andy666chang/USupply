@@ -475,6 +475,14 @@
     [
       "5065c2db-c293-4602-a515-71d10a3ee6be",
       "USB_PD"
+    ],
+    [
+      "0156c727-2094-4527-8078-bf7ea6ce647b",
+      "SYS_PW"
+    ],
+    [
+      "1422583e-951e-4e0a-bf55-81106868c4bc",
+      "Control Unit"
     ]
   ],
   "text_variables": {}
